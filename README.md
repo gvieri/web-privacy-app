@@ -9,10 +9,10 @@ The app will print the cookie and the files included from the page at the given 
 ### colab: https://colab.research.google.com/github/gvieri/web-privacy-app/blob/main/webprivacyapp.ipynb
 
 
-### mybinder notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/blob/main?filepath=webprivacyapp.ipynb)
+### mybinder notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/main?filepath=webprivacyapp.ipynb)
 
 
-### mybinder webapp  :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/main?urlpath=urlpath=apps%2FCwebprivacyapp.ipynb)
+### mybinder webapp  :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/main?urlpath=apps%2FCwebprivacyapp.ipynb)
 
 * wait for a couple of minutes
  
