@@ -6,11 +6,13 @@ It is a jupyter notebook that ask for a website address to be checked.
 The app will print the cookie and the files included from the page at the given web address. 
 
 
-### colab: https://colab.research.google.com/github/gvieri/covid-19-iticu/blob/main/covid19_iticu.ipynb
+### colab: https://colab.research.google.com/github/gvieri/web-privacy-app/blob/main/webprivacyapp.ipynb
 
 
- 
+### mybinder notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/blob/main?filepath=webprivacyapp.ipynb)
 
-### per vederlo su mybinder come webapp: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/covid-19-iticu/main?urlpath=apps%2Fcovid19_iticu.ipynb)
-* attendere per un paio di minuti. 
+
+### mybinder webapp  :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/main?urlpath=urlpath=apps%2FCwebprivacyapp.ipynb)
+
+* wait for a couple of minutes
  
