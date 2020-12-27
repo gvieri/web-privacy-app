@@ -6,7 +6,7 @@ It is a jupyter notebook that ask for a website address to be checked.
 The app will print the cookie and the files included from the page at the given web address. 
 
 
-### colab: https://colab.research.google.com/github/gvieri/web-privacy-app/blob/main/webprivacyapp.ipynb
+### see in google colab (google account required): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvieri/web-privacy-app/blob/main/webprivacyapp.ipynb)
 
 
 <!-- ### mybinder notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/web-privacy-app/main?filepath=webprivacyapp.ipynb) -->
